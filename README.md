@@ -14,3 +14,7 @@ The game does a demo of the following:
 -	Game Items
 -	Save/Load ability
 -	A menu to interact with inventory and change settings
+
+## Acknowledgements
+The music is NOT owned by/licenced to me. It is intended purely as a demo [interovgm](https://soundcloud.com/interovgm/)
+The image tilemap.png is produced by [RedVoxel](https://red-voxel.itch.io/), it requires an attribution 
